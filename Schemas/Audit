@@ -1,0 +1,5 @@
+USE [SSISLogging]
+GO
+
+CREATE SCHEMA [Audit]
+GO
